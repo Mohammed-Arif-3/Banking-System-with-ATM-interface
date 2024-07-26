@@ -1,4 +1,3 @@
-# Banking-System-with-ATM-interface
 # Banking System with ATM Interface
 
 ## Overview
