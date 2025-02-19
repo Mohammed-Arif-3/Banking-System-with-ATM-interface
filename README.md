@@ -1,6 +1,4 @@
 # Banking System with ATM Interface
-
-## Overview
 This project is a simple banking system with an ATM interface, developed using Java and Spring Boot. It provides functionalities for basic banking operations such as account creation, balance inquiry, deposits, and withdrawals through an ATM-like interface.
 
 ## Features
